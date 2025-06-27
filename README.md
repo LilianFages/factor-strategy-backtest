@@ -7,9 +7,6 @@ Ce projet implémente une stratégie factorielle **Momentum** sur un univers de 
 ## 📁 Structure du projet
 
 - `notebook/` → Notebook principal `factor_backtest_skeleton.ipynb`
-- `data/` → (optionnel) pour stocker les données locales
-- `report/` → Export PDF, figures ou analyses supplémentaires
-- `src/` → Fonctions Python réutilisables
 - `requirements.txt` → Dépendances Python
 
 ---
