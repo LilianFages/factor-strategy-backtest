@@ -27,9 +27,3 @@ Ce projet implémente une stratégie factorielle **Momentum** sur un univers de 
 - **Volatilité** ≈ 7.29 %
 - **Sharpe Ratio** ≈ 1.23
 - **Drawdown max** ≈ -10.39 %
-
----
-
-## ▶️ Lancer le projet
-
-
